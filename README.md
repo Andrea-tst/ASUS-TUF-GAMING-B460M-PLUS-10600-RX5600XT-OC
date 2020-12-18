@@ -6,7 +6,7 @@ OpenCore：0.6.2
 处理器:酷睿i5 10600
 显卡：蓝宝石RX5600XT
 无线网卡： BCM94360CS2 （转换接口M.2 NGFF）
-#状态
+# 状态
 无线网络：正常
 蓝牙：正常
 隔空投送：正常
@@ -20,7 +20,7 @@ Motherboard: ASUS TUF GAMING B460M PLUS WIFI
 Processor: Core i5 10600
 Graphics card: Sapphire RX5600XT
 Wireless network card: BCM94360CS2 (conversion interface M.2 NGFF)
-#Status
+# Status
 Wireless network: normal
 Bluetooth: normal
 Airdrop: Normal
