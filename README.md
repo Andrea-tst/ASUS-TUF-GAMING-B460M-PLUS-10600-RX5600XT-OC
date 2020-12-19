@@ -1,7 +1,7 @@
 # ASUS-TUF-GAMING-B460M-PLUS-10600-RX5600XT-OC
 
 # 配置
-OpenCore：0.6.2  
+OpenCore：0.6.1  
 系统版本：macOS Big Sur 11  
 主板：华硕 TUF GAMING B460M PLUS WIFI  
 处理器：Intel 酷睿i5 10600  
@@ -16,7 +16,7 @@ USB2.0/3.0：正常
 风扇转速无法识别 核显/显卡温度无法正常识别 
 
 # Configuration
-OpenCore: 0.6.2  
+OpenCore: 0.6.1  
 System version: macOS Big Sur 11  
 Motherboard: ASUS TUF GAMING B460M PLUS WIFI  
 Processor: Intel Core i5 10600  
