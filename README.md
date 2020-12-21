@@ -2,7 +2,7 @@
 
 # 配置
 OpenCore：0.6.1  
-系统版本：macOS Big Sur 11  
+系统版本：Big Sur 11  
 主板：华硕 TUF GAMING B460M PLUS WIFI  
 处理器：Intel 酷睿i5 10600  
 显卡：蓝宝石RX5600XT  
@@ -17,7 +17,7 @@ USB2.0/3.0：正常
 
 # Configuration
 OpenCore: 0.6.1  
-System version: macOS Big Sur 11  
+System version: Big Sur 11  
 Motherboard: ASUS TUF GAMING B460M PLUS WIFI  
 Processor: Intel Core i5 10600  
 Graphics card: Sapphire RX5600XT  
