@@ -13,7 +13,7 @@ OpenCore：0.6.1
 隔空投送：正常  
 USB2.0/3.0：正常  
 核显硬件加速可用  
-风扇转速无法识别 核显/显卡温度无法正常识别 
+显卡温度无法正常识别 
 
 # Configuration
 OpenCore: 0.6.1  
@@ -28,4 +28,4 @@ Bluetooth: normal
 Airdrop: normal  
 USB2.0/3.0: normal  
 Nuclear display hardware acceleration available  
-The fan speed cannot be recognized. Nuclear display/graphics card temperature cannot be recognized  
+graphics card temperature cannot be recognized  
