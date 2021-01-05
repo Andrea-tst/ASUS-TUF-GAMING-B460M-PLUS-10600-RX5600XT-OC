@@ -14,6 +14,10 @@ OpenCore：0.6.5
 USB2.0/3.0：正常  
 核显硬件加速可用  
 显卡温度无法正常识别
+如果想驱动AX200（隔空投送无法正常使用）
+Airportitlwm-ket： https://github.com/win1010525/Airportitlwm-kext/releases
+OpenIntelWireless： https://github.com/OpenIntelWireless/itlwm
+
 
 # Configuration
 OpenCore: 0.6.5
