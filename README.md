@@ -16,7 +16,7 @@ USB2.0/3.0：正常
 显卡温度无法正常识别
 
 # Configuration
-OpenCore: 0.6.1  
+OpenCore: 0.6.5
 System version: Big Sur 11  
 Motherboard: ASUS TUF GAMING B460M PLUS WIFI  
 Processor: Intel Core i5 10600  
